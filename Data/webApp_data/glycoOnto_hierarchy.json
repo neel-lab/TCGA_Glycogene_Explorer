@@ -1,0 +1,357 @@
+{
+    "Pathway": {
+        "Transport": {
+            "Nutrient_Transport": {
+                "Glucose_Transport": ""
+            },
+            "Donor_Transport": {
+                "Nucleotide_Sugar_Transport": {
+                    "GDP-Fuc_Transport": "",
+                    "GDP-Man_Transport": "",
+                    "UDP-Xyl_Transport": "",
+                    "UDP-GlcNAc_Transport": "",
+                    "UDP-Gal_Transport": "",
+                    "UDP-GlcA_Transport": "",
+                    "UDP-Glc_Transport": "",
+                    "CMP-Neu5Ac_Transport": "",
+                    "UDP-GalNAc_Transport": ""
+                },
+                "Modification_Transport": {
+                    "PAPS_Transport": ""
+                }
+            }
+        },
+        "Glycosylation_Regulation": {
+            "Lysosomal_Targeting": ""
+        },
+        "Glycan_Degradation": {
+            "Lysosome_Degradation": {
+                "N-linked_Lysosome_Degradation": "",
+                "GSL_Lysosome_Degradation": "",
+                "HS_Lysosome_Degradation": "",
+                "O-linked_Lysosome_Degradation": "",
+                "GAG_Lysosome_Degradation": {
+                    "KS_Lysosome_Degradation": "",
+                    "CS_Lysosome_Degradation": "",
+                    "HA_Lysosome_Degradation": "",
+                    "DS_Lysosome_Degradation": ""
+                }
+            },
+            "O-linked_Glycan_Degradation": "",
+            "Extracellular_Degradation": {
+                "HS_Extracellular_Degradation": "",
+                "HA_Extracellular_Degradation": "",
+                "DS_Extracellular_Degradation": ""
+            },
+            "GSL_Glycan_Degradation": "",
+            "Cytosol_Degradation": {
+                "CS_Cytosol_Degradation": "",
+                "HA_Cytosol_Degradation": "",
+                "O-linked_Cytosol_Degradation": "",
+                "HS_Cytosol_Degradation": "",
+                "KS_Cytosol_Degradation": "",
+                "N-linked_Cytosol_Degradation": "",
+                "GSL_Cytosol_Degradation": "",
+                "DS_Cytosol_Degradation": ""
+            },
+            "GAG_Glycan_Degradation": {
+                "DS_Glycan_Degradation": "",
+                "HA_Glycan_Degradation": "",
+                "KS_Glycan_Degradation": "",
+                "HS_Glycan_Degradation": "",
+                "CS_Glycan_Degradation": ""
+            },
+            "Other_Degradation": {
+                "Glycogen_Breakdown": ""
+            },
+            "N-linked_Glycan_Degradation": ""
+        },
+        "Modification": {
+            "Protein_Sulfation": "",
+            "mono_sulfation": {
+                "KS_Sulfation": "",
+                "CS&DS_Sulfation": "",
+                "6-Sulfo_sLeX": "",
+                "HS_Sulfation": {
+                    "N-sulfation": ""
+                },
+                "Terminal_Gal_Sulfation": ""
+            }
+        },
+        "Glycosylation": {
+            "Elongation_and_Branching": {
+                "Type_I_LacNAc": "",
+                "Type_II_LacNAc": "",
+                "GAG_Polymerization": {
+                    "CS&DS_Polymerization": "",
+                    "HS_Polymerization": "",
+                    "KS_Polymerization": ""
+                },
+                "I-Branching": "",
+                "LacDiNAc": "",
+                "Type_III_LacNAc": ""
+            },
+            "CorePathways": {
+                "N-linked": {
+                    "Dolichol_Pathway": "",
+                    "Nlinked_Branching": "",
+                    "Nlinked_Processing": ""
+                },
+                "Glycolipids": {
+                    "GPI_Linked": "",
+                    "GSL": {
+                        "GalCer": "",
+                        "GlcCer": {
+                            "Lacto": "",
+                            "Globo": "",
+                            "Neolacto": "",
+                            "Ganglioside": ""
+                        }
+                    }
+                },
+                "GAG": {
+                    "Hyaluronan": "",
+                    "O-Xyl": {
+                        "CS&DS_Initiation": "",
+                        "HS_Initiation": ""
+                    }
+                },
+                "O-linked": {
+                    "O-Fuc": {
+                        "POFUT1_Type": "",
+                        "POFUT2_Type": ""
+                    },
+                    "O-Glc": "",
+                    "EOGT_Type": "",
+                    "O-GlcNAc": "",
+                    "Collagen_Glycosylation": "",
+                    "O-GalNAc": {
+                        "Core2": "",
+                        "Core1": "",
+                        "Core3": "",
+                        "Core4": ""
+                    },
+                    "O-Man": {
+                        "POMT_Type": {
+                            "POMGNT1_Type": "",
+                            "POMGNT2_Type": {
+                                "Dystro": ""
+                            }
+                        },
+                        "TMTC_Type": ""
+                    }
+                },
+                "C-Man": ""
+            },
+            "Capping": {
+                "HNK-1": "",
+                "SdaAntigen": "",
+                "Neu59Ac_Metabolism": "",
+                "Sialylation": "",
+                "Fucosylation": {
+                    "ABO_BloodGroups": ""
+                }
+            }
+        },
+        "Donor_Synthesis": {
+            "Modification_Synthesis": {
+                "PAPS_Synthesis": ""
+            },
+            "Nucleotide_Sugar_Synthesis": {
+                "UDP-Glc_Synthesis": "",
+                "UDP-GlcNAc_Synthesis": "",
+                "UDP-GlcA_Synthesis": "",
+                "UDP-Gal_Synthesis": "",
+                "UDP-Xyl_Synthesis": "",
+                "UDP-GalNAc_Synthesis": "",
+                "CMP-Neu5Ac_Synthesis": "",
+                "GDP-Man_Synthesis": "",
+                "GDP-Fuc_Synthesis": ""
+            }
+        },
+        "Inactive_Enzyme": "",
+        "Glucuronidation": "",
+        "Putative_or_Unknown_Pathways": ""
+    },
+    "Glycogene": {
+        "Human_Inactive": "",
+        "Modifying_Enzyme": {
+            "Acetyltransferase": "",
+            "Sulfurylase": "",
+            "Sulfotransferase": {
+                "GalNAc6ST": "",
+                "GalNAc4ST": "",
+                "ATP_Sulfurylase": "",
+                "GlcA3ST": "",
+                "Gal6ST": "",
+                "GlcA_IdoA2ST": "",
+                "Gal3ST": "",
+                "IdoA2ST": "",
+                "CS4ST": "",
+                "GlcNAc3ST": "",
+                "GlcNAc6ST": ""
+            },
+            "Transamidase": "",
+            "Dioxygenase": "",
+            "Kinase": "",
+            "Dehydratase": "",
+            "Hydroxylase": "",
+            "Isomerase": "",
+            "Sulfatase": {
+                "GalNAc6S_Sulfatase": "",
+                "Gal6S_Sulfatase": "",
+                "GlcN6S_Sulfatase": "",
+                "GlcNAc6S_Sulfatase": "",
+                "IdoA2S_Sulfatase": ""
+            },
+            "Deacetylase": "",
+            "Epimerase": "",
+            "Dehydrogenase": "",
+            "Phosphatase": "",
+            "Phosphoesterase": "",
+            "Acetylase": "",
+            "Acetylesterase": "",
+            "Decarboxylase": "",
+            "Synthase": ""
+        },
+        "Transferase": {
+            "Glycosyltransferase": {
+                "SialylT": {
+                    "α2-3_SialylT": "",
+                    "α2-6_SialylT": "",
+                    "α2-8_SialylT": ""
+                },
+                "XylT": {
+                    "β4XylT": "",
+                    "Protein_XylT": "",
+                    "α3XylT": ""
+                },
+                "ManT": {
+                    "W_ManT": "",
+                    "Dol-P-P_ManT": "",
+                    "α4ManT": "",
+                    "α2ManT": "",
+                    "α3ManT": "",
+                    "Cad_ManT": "",
+                    "α6ManT": "",
+                    "β4ManT": "",
+                    "O_ManT": ""
+                },
+                "GalT": {
+                    "β4GalT": "",
+                    "β3GalT": "",
+                    "Other_GalTs": "",
+                    "α3GalT": ""
+                },
+                "GlcNAcT": {
+                    "β4GlcNAcT": "",
+                    "β2GlcNAcT": "",
+                    "β6GlcNAcT": "",
+                    "β3GlcNAcT": "",
+                    "α4GlcNAcT": "",
+                    "Other_GlcNAcT": ""
+                },
+                "FucosylT": {
+                    "α6FucosylT": "",
+                    "Protein_FucosylT": "",
+                    "α3FucosylT": "",
+                    "α2FucosylT": "",
+                    "α4FucosylT": ""
+                },
+                "GalNAcT": {
+                    "α3GalNAcT": "",
+                    "Other_GalNAcT": "",
+                    "β3GalNAcT": "",
+                    "ppGalNAcT": "",
+                    "β4GalNAcT": "",
+                    "β2GalNAcT": ""
+                },
+                "GlcAT": {
+                    "β4GlcAT": "",
+                    "α3GlcAT": "",
+                    "Metabolic_GlcAT": "",
+                    "Other_GlcAT": "",
+                    "β3GlcAT": ""
+                },
+                "GlcT": ""
+            },
+            "Other_Transferases": {
+                "Aminotransferase": "",
+                "Cytidylyltransferase": "",
+                "Acyltransferase": "",
+                "GlcNAc_PhosphoT": "",
+                "ethanolamine_phosphate_transferase": "",
+                "RibitolT": "",
+                "Uridylyltransferase": "",
+                "Guanylyltransferase": "",
+                "Guanyltransferase": "",
+                "Oligosaccharyltransferase": ""
+            }
+        },
+        "Regulator": {
+            "Intracellular_Lectin": "",
+            "Inhibitor": "",
+            "Cofactor": "",
+            "Enhancer": ""
+        },
+        "Glycosidase": {
+            "Glucosidase": "",
+            "Sialidase": "",
+            "Glucuronidase": "",
+            "Glucosaminidase": "",
+            "NAcetylgalactosaminidase": "",
+            "Galactosidase": "",
+            "Mannosidase": "",
+            "NAcetylglucosaminidase": "",
+            "Iduronidase": "",
+            "Fucosidase": "",
+            "Endoglycosidase": ""
+        },
+        "Putative_or_Inactive": "",
+        "Transporter": {
+            "Monosaccharide_Transporter": {
+                "Glucose_Transporter": ""
+            },
+            "Nucleotide_Sugar_Transporter": {
+                "GDP-Man_Transporter": "",
+                "PAPS_Transporter": "",
+                "UDP-Gal_Transporter": "",
+                "UDP-GalNAc_Transporter": "",
+                "CMP-Neu5Ac_Transporter": "",
+                "GDP-Fuc_Transporter": "",
+                "UDP-GlcNAc_Transporter": "",
+                "UDP-Xyl_Transporter": "",
+                "UDP-GlcA_Transporter": "",
+                "UDP-Glc_Transporter": ""
+            }
+        }
+    },
+    "Compartment": {
+        "Caveola": "",
+        "Endoplasmic_Reticulum": {
+            "Endoplasmic_Reticulum_Lumen": "",
+            "ERGIC": ""
+        },
+        "Golgi": {
+            "medialGolgi": "",
+            "transGolgi_network": {
+                "transGolgi": ""
+            },
+            "cisGolgi_network": {
+                "cisGolgi": ""
+            }
+        },
+        "Endosome": {
+            "Late_Endosome": ""
+        },
+        "Extracellular": "",
+        "Unknown": "",
+        "Cell_Membrane": "",
+        "Nucleus": "",
+        "Mitochondria": "",
+        "Lysosome": "",
+        "Vesicle": "",
+        "Cytosol": "",
+        "Exosome": ""
+    }
+}

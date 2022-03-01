@@ -1,6 +1,6 @@
 # Data Folder
 
-## WebApp_data
+## webApp_data
 
 This directory contains various gene lists and json files required to render the GlycoEnzOnto as a hierarchical tree in the webapp.
 
